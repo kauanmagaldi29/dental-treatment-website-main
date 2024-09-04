@@ -1,0 +1,10 @@
+.whyChooseUs {
+  background: transparent;
+}
+.whyChooseUsListItemDesc {
+  font-size: 20px;
+}
+.whyChooseUsListItemIconContent {
+  min-width: 20px;
+  margin-top: 0.4rem;
+}

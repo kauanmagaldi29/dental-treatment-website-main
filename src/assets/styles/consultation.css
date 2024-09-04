@@ -1,0 +1,10 @@
+.consultationContent {
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.consultationInput {
+  border: 1px solid #d1d1d1;
+  border-radius: 20px;
+  width: 276px;
+  padding: 1rem;
+}

@@ -1,0 +1,32 @@
+.footerColumnListItem {
+  padding: 0.2rem 0;
+}
+.footerColumnListItemLink {
+  font-size: 18px;
+  color: #1e1e1e;
+}
+.footerColumnListItemLink.active {
+  color: #ff7d61;
+}
+.footerInput {
+  background: transparent;
+}
+.footerInput:focus-visible {
+  outline: none;
+}
+.footerSocialMediaListItemImgContent {
+  max-width: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footerSocialMediaListItemImg {
+  width: 100%;
+}
+
+@media (max-width: 1100px) {
+  .footerColumn {
+    max-width: 300px;
+    min-width: 300px;
+  }
+}

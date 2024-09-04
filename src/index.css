@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.serviceContent,
+.aboutUsContent,
+.whyChooseUsContent,
+.consultationContent,
+.footerContent {
+  font-family: "Poppins";
+}
+.aboutUs {
+  background-image: url(./assets/images/aboutUsImages/elipsBackground.png);
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: contain;
+}

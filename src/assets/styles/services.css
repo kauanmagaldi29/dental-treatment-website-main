@@ -1,0 +1,52 @@
+.serviceBox {
+  max-width: 375px;
+  min-height: 300px;
+  width: 100%;
+  position: relative;
+  padding: 1rem;
+  border-radius: 20px;
+  overflow: hidden;
+}
+.serviceBoxTitle {
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 36px;
+  margin-bottom: 0.5rem;
+}
+.serviceBoxDesc,
+.serviceButton {
+  font-size: 16px;
+}
+.serviceBoxTitle,
+.serviceBoxDesc {
+  max-width: 200px;
+}
+.serviceBoxDesc {
+  min-height: 80px;
+}
+.serviceButton {
+  display: inline-block;
+  font-weight: 600;
+  background-color: #fff;
+  padding: 0.5rem 1rem;
+  margin-top: 1rem;
+  border-radius: 20px;
+}
+.serviceBoxImgContent {
+  position: absolute;
+  bottom: 0rem;
+  right: 0;
+}
+.serviceBoxImg {
+  width: 100%;
+}
+@media (max-width: 500px) {
+  .serviceBox {
+    min-height: auto;
+  }
+  .serviceBoxTitle,
+  .serviceBoxDesc {
+    z-index: 10;
+    position: relative;
+  }
+}
