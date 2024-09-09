@@ -14,7 +14,7 @@ const AboutUs = () => {
         <h2 className="sectionMainTitle text-left mb-6 font-semibold text-[36px]">Anna Flávia Mariot Chiodelli</h2>
         <p className="sectionDesc text-[18px]">
           Meu nome é Anna Flávia Chiodelli, natural de São Joaquim. Sou uma profissional dedicada à área da estética odontológica, 
-          sempre em busca de aprimoramento e especialização. <br/><br/> Estou preparada para oferecer serviços com qualidade e excelência, incluindo limpeza dental, clareamento em consultório e supervisionado (caseiro), restaurações estéticas simples e complexas, além de atuar como clínica geral.<br/><br/> Atualmente, curso uma residência em odontologia estética, que abrange diversas áreas da prática odontológica. Agende uma avaliação e venha conferir nossos serviços.
+          sempre em busca de aprimoramento e especialização. <br/><br/> Estou preparada para oferecer serviços com qualidade e excelência, incluindo limpeza dental, clareamento em consultório e supervisionado (caseiro), restaurações estéticas simples e complexas, além de atuar como clínica geral.<br/><br/> Atualmente, residente em odontologia estética, que abrange diversas áreas da prática odontológica. Agende uma avaliação e venha conferir nossos serviços.
         </p>
        
         <div className="bookingButtonContent ">

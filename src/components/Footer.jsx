@@ -20,7 +20,7 @@ const Footer = () => {
       <div className="footerColumns mt-5 flex justify-between items-start gap-5 max-xl:flex-wrap max-xl:justify-center">
         {/* Company Column */}
         <div className="footerColumn">
-          <h3 className="footerColumnTitle font-semibold text-[20px] mb-3">Company</h3>
+          <h3 className="footerColumnTitle font-semibold text-[20px] mb-3">Sobre</h3>
           <ul className="footerColumnList">
             <li className="footerColumnListItem">
               <a href="/" className="footerColumnListItemLink active">
@@ -89,6 +89,7 @@ const Footer = () => {
               <div className="footerSocialMediaListItemImgContent">
                 <img src={facebookLogo} alt="Facebook" className="footerSocialMediaListItemImg" />
               </div>
+
             </li>
             <li className="footerSocialMediaListItem">
               <div className="footerSocialMediaListItemImgContent">

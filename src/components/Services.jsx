@@ -31,7 +31,7 @@ const Services = () => {
             <img src={dentalImplant} alt="Dental Implant" className="serviceBoxImg" />
           </div>
           <h3 className="serviceBoxTitle text-white">Extração de Sisos</h3>
-          <p className="serviceBoxDesc text-white">Remoção de dentes do siso.</p>
+          <p className="serviceBoxDesc text-white">Remoção de dentes siso pelo Dr. Gustavo José</p>
           <a href="#" className="serviceButton text-black">
             MARCAR CONSULTA
           </a>
