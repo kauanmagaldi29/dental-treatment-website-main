@@ -30,7 +30,7 @@ const Hero = () => {
               className="bookingButton shadow-buttonShadow bg-secondary flex items-center gap-2 px-5 py-2 rounded-[30px] font-semibold h-[50px] mt-5 relative"
               onClick={() => {
                 window.open(
-                  "https://wa.me/554991462420?text=Vim%20do%20site%20e%20preciso%20de%20um%20atendimento.",
+                  "https://wa.me/554991462420?text=Vim%20do%20site%20e%20gostaria%20de%20agendar%20um%20atendimento.",
                   "_blank"
                 );
               }}
