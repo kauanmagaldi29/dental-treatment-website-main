@@ -22,20 +22,26 @@ const Hero = () => {
           max-md:pt-0
           "
           >
-            
+
             <br /> Minha prioridade é o seu sorriso
           </h1>
-          <div className="bookingButtonContent max-[850px]:flex max-[850px]:justify-center max-[850px]:items-center">
-            <button className="bookingButton bg-secondary flex items-center gap-2 px-5 py-2 rounded-[30px] font-semibold h-[50px] mt-5 relative">
-              Entrar em Contato
+          <div className="bookingButtonContent">
+            <button
+              className="bookingButton shadow-buttonShadow bg-secondary flex items-center gap-2 px-5 py-2 rounded-[30px] font-semibold h-[50px] mt-5 relative"
+              onClick={() => {
+                window.open(
+                  "https://wa.me/554991462420?text=Vim%20do%20site%20e%20preciso%20de%20um%20atendimento.",
+                  "_blank"
+                );
+              }}
+            >
+              ENTRAR EM CONTATO
               <div className="bookingButtonImgContent max-w-[13px] flex items-center justify-center">
                 <img src={contactArrow} alt="Arrow" className="bookingButtonImg w-full" />
               </div>
-              <div className="bookingButtonEffectImgContent  absolute max-w-[80px] right-[-15px] z-[-1]">
-                <img src={heroButtonEffect} alt="Arrow" className="bookingButtonEffectImg w-full" />
-              </div>
             </button>
           </div>
+
         </div>
         <div className="heroImgContent w-full max-w-[630px] absolute bottom-30 right-0 max-lg:max-w-[500px] max-[850px]:relative">
           <img src={heroImg} alt="DentistaLages" className="heroImg w-full" />
