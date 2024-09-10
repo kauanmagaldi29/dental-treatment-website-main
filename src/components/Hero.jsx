@@ -62,8 +62,8 @@ const Hero = () => {
             <div className="qualityBoxImgContent">
               <img src={expertDentist} alt="Expert Dentist" className="qualityBoxImg" />
             </div>
-            <h3 className="qualityBoxTitle">Especialista em Cirurgias</h3>
-            <p className="qualityBoxDesc">Especialista em cirurgias e extrações complexas.</p>
+            <h3 className="qualityBoxTitle">Procedimentos sem dor</h3>
+            <p className="qualityBoxDesc">Procedimentos estéticos e cirurgias sem dor alguma.</p>
           </div>
           {/* High User Rating */}
           <div className="qualityBox">
