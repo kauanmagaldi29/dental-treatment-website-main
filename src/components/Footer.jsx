@@ -67,7 +67,7 @@ const Footer = () => {
 
           <h3 className="footerColumnTitle font-semibold text-[20px] mb-3 mt-5">Contatos</h3>
           <p className="footerDesc">
-            49 9146-2420 <br /> info@gmail.com
+            49 9146-2420 <br /> draannachiodelli@gmail.com
           </p>
         </div>
 
