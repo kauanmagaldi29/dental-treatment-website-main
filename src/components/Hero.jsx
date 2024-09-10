@@ -55,7 +55,7 @@ const Hero = () => {
               <img src={freeConsultation} alt="Free Consultation" className="qualityBoxImg" />
             </div>
             <h3 className="qualityBoxTitle">Atendimento 24 horas</h3>
-            <p className="qualityBoxDesc">Atendimento com urgência a qualquer dia e hora da semana.</p>
+            <p className="qualityBoxDesc">Atendimento com urgência cirurgica a qualquer dia e hora da semana.</p>
           </div>
           {/* Expert Dentist */}
           <div className="qualityBox">
