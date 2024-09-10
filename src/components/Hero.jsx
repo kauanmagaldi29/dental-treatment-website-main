@@ -23,7 +23,7 @@ const Hero = () => {
           "
           >
             
-            <br /> Nossa prioridade é o seu sorriso
+            <br /> Minha prioridade é o seu sorriso
           </h1>
           <div className="bookingButtonContent max-[850px]:flex max-[850px]:justify-center max-[850px]:items-center">
             <button className="bookingButton bg-secondary flex items-center gap-2 px-5 py-2 rounded-[30px] font-semibold h-[50px] mt-5 relative">
