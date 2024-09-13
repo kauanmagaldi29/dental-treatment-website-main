@@ -16,7 +16,7 @@ const Testimonials = () => {
           "Sentia muita dor na boca, além de meu sorriso ter várias imporfeições, mas depois da consulta com a Dra. Anna Chiodelli. Estou com o meu sorriso novo, fiz remoção de cáries e clareamento.""
         </p>
         <div className="testimonialsBoxPersonInfo text-center mt-5">
-          <p className="testimonialsBoxPersonName text-[24px] font-medium text-[#1E1E1E]">David Gahan</p>
+  
           <p className="testimonialsBoxPersonLocation text-[20px] text-[#1E1E1E]">Lages - SC</p>
         </div>
       </div>
