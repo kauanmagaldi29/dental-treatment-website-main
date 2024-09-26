@@ -20,7 +20,7 @@ const Services = () => {
           </div>
           <h3 className="serviceBoxTitle text-white">Clínico Geral</h3>
           <p className="serviceBoxDesc text-white">Cuidados odontológicos de rotina essenciais.</p>
-          <a href="https://wa.me/554991462420?text=Vim%20do%20site%20e%20gostaria%20de%20agendar%20um%20atendimento." className="serviceButton text-black">
+          <a href="https://wa.me/554991462420?text=Olá%20,vim%20do%20site%20e%20gostaria%20de%20agendar%20um%20atendimento." className="serviceButton text-black">
             MARCAR CONSULTA
           </a>
         </div>
@@ -32,7 +32,7 @@ const Services = () => {
           </div>
           <h3 className="serviceBoxTitle text-white">Extração de Sisos</h3>
           <p className="serviceBoxDesc text-white">Remoção de dentes siso pelo Dr. Gustavo José</p>
-          <a href="https://wa.me/554991462420?text=Vim%20do%20site%20e%20gostaria%20de%20agendar%20um%20atendimento." className="serviceButton text-black">
+          <a href="https://wa.me/554991462420?text=Olá%20,vim%20do%20site%20e%20gostaria%20de%20agendar%20um%20atendimento." className="serviceButton text-black">
             MARCAR CONSULTA
           </a>
         </div>
@@ -46,7 +46,7 @@ const Services = () => {
           <p className="serviceBoxDesc text-white">
             Clareamento para dentes mais brancos.
           </p>
-          <a href="https://wa.me/554991462420?text=Vim%20do%20site%20e%20gostaria%20de%20agendar%20um%20atendimento." className="serviceButton text-black">
+          <a href="https://wa.me/554991462420?text=Olá%20,vim%20do%20site%20e%20gostaria%20de%20agendar%20um%20atendimento." className="serviceButton text-black">
             MARCAR CONSULTA
           </a>
         </div>
@@ -58,7 +58,7 @@ const Services = () => {
           </div>
           <h3 className="serviceBoxTitle text-white">Restaurações estéticas</h3>
           <p className="serviceBoxDesc text-white">Reparos dentários com aparência natural.</p>
-          <a href="https://wa.me/554991462420?text=Vim%20do%20site%20e%20gostaria%20de%20agendar%20um%20atendimento." className="serviceButton text-black">
+          <a href="https://wa.me/554991462420?text=Olá%20,vim%20do%20site%20e%20gostaria%20de%20agendar%20um%20atendimento." className="serviceButton text-black">
             MARCAR CONSULTA
           </a>
         </div>
@@ -73,7 +73,7 @@ const Services = () => {
           <p className="serviceBoxDesc text-white">
             Correção estética de dentes danificados.
           </p>
-          <a href="https://wa.me/554991462420?text=Vim%20do%20site%20e%20gostaria%20de%20agendar%20um%20atendimento." className="serviceButton text-black">
+          <a href="https://wa.me/554991462420?text=Olá%20,vim%20do%20site%20e%20gostaria%20de%20agendar%20um%20atendimento." className="serviceButton text-black">
             MARCAR CONSULTA
           </a>
         </div>
@@ -89,7 +89,7 @@ const Services = () => {
           <p className="serviceBoxDesc text-white">
             Fina camada estética para dentes.
           </p>
-          <a href="https://wa.me/554991462420?text=Vim%20do%20site%20e%20gostaria%20de%20agendar%20um%20atendimento." className="serviceButton text-black">
+          <a href="https://wa.me/554991462420?text=Olá%20,vim%20do%20site%20e%20gostaria%20de%20agendar%20um%20atendimento." className="serviceButton text-black">
             MARCAR CONSULTA
           </a>
         </div>

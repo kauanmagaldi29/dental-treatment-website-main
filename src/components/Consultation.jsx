@@ -22,7 +22,7 @@ const Consultation = () => {
             const contato = e.target[3].value;
 
             // Cria a mensagem para o WhatsApp
-            const whatsappMessage = `Vim%20do%20site%20e%20gostaria%20de%20agendar%20um%20atendimento.%0A%0ANome:%20${encodeURIComponent(
+            const whatsappMessage = `Olá%20,vim%20do%20site%20e%20gostaria%20de%20agendar%20um%20atendimento.%0A%0ANome:%20${encodeURIComponent(
               nome
             )}%0AMensagem:%20${encodeURIComponent(
               mensagem
