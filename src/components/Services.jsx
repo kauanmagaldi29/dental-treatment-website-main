@@ -25,19 +25,9 @@ const Services = () => {
           </a>
         </div>
 
-        {/* Dental Implant */}
-        <div className="serviceBox" style={{ backgroundColor: '#800000' }}>
-          <div className="serviceBoxImgContent">
-            <img src={dentalImplant} alt="Dental Implant" className="serviceBoxImg" />
-          </div>
-          <h3 className="serviceBoxTitle text-white">Extração de Sisos</h3>
-          <p className="serviceBoxDesc text-white">Remoção de dentes siso pelo Dr. Gustavo José</p>
-          <a href="https://wa.me/554991462420?text=Olá%20,vim%20do%20site%20e%20gostaria%20de%20agendar%20um%20atendimento." className="serviceButton text-black">
-            MARCAR CONSULTA
-          </a>
-        </div>
+ 
 
-        {/* Teeth Fillings */}
+        {/* Teeth Fillings 
         <div className="serviceBox" style={{ backgroundColor: '#800000' }}>
           <div className="serviceBoxImgContent">
             <img src={teethFillings} alt="Teeth Fillings" className="serviceBoxImg" />
@@ -49,7 +39,7 @@ const Services = () => {
           <a href="https://wa.me/554991462420?text=Olá%20,vim%20do%20site%20e%20gostaria%20de%20agendar%20um%20atendimento." className="serviceButton text-black">
             MARCAR CONSULTA
           </a>
-        </div>
+        </div>*/}
 
         {/* Oral Surgery */}
         <div className="serviceBox" style={{ backgroundColor: '#800000' }}>

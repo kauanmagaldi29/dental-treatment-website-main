@@ -49,14 +49,14 @@ const Hero = () => {
       </section>
       <section className="qualityContent max-w-[1200px] mx-auto px-3 max-lg:pt-[100px] max-[850px]:pt-[0px] max-[850px]:mt-[-50px]">
         <div className="qualityBoxes z-10 relative flex flex-wrap items-start justify-center gap-5">
-          {/* Free Consultation */}
+          {/* Free Consultation 
           <div className="qualityBox">
             <div className="qualityBoxImgContent">
               <img src={freeConsultation} alt="Free Consultation" className="qualityBoxImg" />
             </div>
             <h3 className="qualityBoxTitle">Atendimento 24 horas</h3>
             <p className="qualityBoxDesc">Atendimento com urgência cirurgica a qualquer dia e hora da semana.</p>
-          </div>
+          </div>*/}
           {/* Expert Dentist */}
           <div className="qualityBox">
             <div className="qualityBoxImgContent">
