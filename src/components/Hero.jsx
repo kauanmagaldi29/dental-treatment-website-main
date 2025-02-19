@@ -10,7 +10,7 @@ import bestEquipment from "../assets/images/heroImages/bestEquipment.png";
 import "../assets/styles/hero.css";
 
 const Hero = () => {
-  return (
+  return ( 
     <>
       <section className="heroContent max-w-[1200px] mx-auto px-3 flex justify-between items-start relative min-h-[70vh] max-lg:min-h-[100%] max-[850px]:flex-col max-[850px]:justify-center max-[850px]:items-center">
         <div className="heroInfoContent w-full max-w-[669px] z-10">
