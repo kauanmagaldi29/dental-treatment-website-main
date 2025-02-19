@@ -8,7 +8,7 @@ import periodontalCare from "../assets/images/servicesImages/periodontalCare.png
 import "../assets/styles/services.css";
 
 const Services = () => {
-  return (
+  return ( 
     <section className="serviceContent max-w-[1200px] mx-auto my-10">
       <h3 className="sectionSubTitle font-semibold text-[20px] text-center text-ndary">SERVIÇOS</h3>
       <h2 className="sectionMainTitle text-center mb-6 font-semibold text-[36px]">Nossas Especialidades</h2>
